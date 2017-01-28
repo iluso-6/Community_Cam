@@ -3,7 +3,7 @@ Experimental app coded in Lua and php (backend server stuff) for community self 
 
 Main Menu
 
-![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/main_menu.PNG?raw=true)
+![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/main__menu.PNG?raw=true)
 
 
 Scrolling List menu
