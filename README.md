@@ -1,27 +1,27 @@
 # Community_Cam
 Experimental app coded in Lua and php (backend server stuff) for community self monitoring.
 
-
-Desktop web monitor
+<br>
+***Desktop web monitor***
 
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/screenshot-web.png?raw=true)
 
-
-Main Menu
+<br>
+***Main Menu***
 
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/main__menu.PNG?raw=true)
 
-
-Scrolling List menu
+<br>
+***Scrolling List menu***
 
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/photo__list.PNG?raw=true)
 
-
-Selected photo
+<br>
+***Selected photo***
 
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/list_item.PNG?raw=true)
 
-
-Custom zoom feature
+<br>
+***Custom zoom feature***
 
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/zoomed_view.PNG?raw=true)
