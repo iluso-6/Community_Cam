@@ -8,7 +8,7 @@ Main Menu
 
 Scrolling List menu
 
-![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/photo_list.PNG?raw=true)
+![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/photo__list.PNG?raw=true)
 
 
 Selected photo
