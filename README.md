@@ -2,6 +2,8 @@
 Experimental app coded in Lua and php (backend server stuff) for community self monitoring.
 
 
+Desktop web monitor
+
 ![alt tag](https://github.com/iluso-6/Community_Cam/blob/master/screenshot-web.png?raw=true)
 
 
